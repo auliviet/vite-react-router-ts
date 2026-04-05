@@ -7,6 +7,8 @@ Project overview.
 ### Built With
 
 - React
+- React Router
+- Storybook
 - Typescript
 - Vite
 - Vitest and React Testing Library
